@@ -1,3 +1,4 @@
+![Dashboard](Dashboard.jpeg)
 # 📊 E-commerce Sales Analysis Dashboard
 
 A comprehensive **Power BI Dashboard** designed to analyze and visualize e-commerce sales performance. This project transforms raw sales data into actionable business intelligence to help stakeholders track KPIs, optimize inventory, and understand customer behavior.
